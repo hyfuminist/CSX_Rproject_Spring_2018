@@ -1,6 +1,7 @@
 # CSX_Rproject_Spring_2018
 
-week_1
+Hello, this is 周泓諭 from department of accounting.
+# week 1
 
   1. hw_1
   
