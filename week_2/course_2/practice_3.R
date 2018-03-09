@@ -4,6 +4,7 @@
 ### Crawler_Example with rvest    #####################################################################
 # 參考：https://blog.gtwang.org/r/rvest-web-scraping-with-r/
 rm(list = ls())
+install.packages("rvest")
 library(rvest)
 
 # Set url
